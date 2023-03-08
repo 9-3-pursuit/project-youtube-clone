@@ -18,7 +18,7 @@ For this project, you will work with at least one other person to recreate parts
 After having been assigned a group, complete the following:
 
 - [ ] Read the rest of this document in full.
-- [ ] Create a new [Trello board](https://trello.com/) with your group, making it public. Include three columns: "To Do", "Doing", and "Done". Make sure everyone has access to the board.
+- [ ] Create a new [Trello board](https://trello.com/) with your group, making it public. Include four columns: "Standups", "To Do", "Doing", and "Done". Make sure everyone has access to the board.
 - [ ] Have each member of the group read the guide on [working in groups](./docs/working-in-groups.md). Afterwards, discuss what you read about as a group.
 - [ ] Read the project requirements in the [requirements](./docs/requirements.md) document. For each feature, build a new card in the Trello.
 - [ ] Once you have built the cards you believe you need, prioritize the cards so that the most important are towards the top.
